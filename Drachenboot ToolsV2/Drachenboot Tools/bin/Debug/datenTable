@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns="urn:schemas-microsoft-com:office:spreadsheet">
+  <o:DocumentProperties>
+    <Author>Admin</Author>
+    <LastAuthor>Admin</LastAuthor>
+    <Created>2018-02-11 21:04:50ZZ</Created>
+    <Company>Unknown</Company>
+    <Version>11.8122</Version>
+  </o:DocumentProperties>
+  <x:ExcelWorkbook>
+    <WindowHeight>13170</WindowHeight>
+    <WindowWidth>17580</WindowWidth>
+    <WindowTopX>120</WindowTopX>
+    <WindowTopY>60</WindowTopY>
+    <ProtectStructure>False</ProtectStructure>
+    <ProtectWindows>False</ProtectWindows>
+  </x:ExcelWorkbook>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom" />
+      <Borders />
+      <Font />
+      <Interior />
+      <NumberFormat />
+      <Protection />
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="Paddler">
+    <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="30" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="60">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">f</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">g</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">h</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">i</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">j</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">k</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">l</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">m</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">n</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">o</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">p</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">q</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">r</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">s</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">t</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">u</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">v</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">w</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">x</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">y</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">z</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">80</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Männlich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">X</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">f1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">60</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weiblich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">f2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">60</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weiblich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">f3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">60</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weiblich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">f4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">60</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Weiblich</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Beides</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" />
+        </Cell>
+      </Row>
+    </Table>
+    <x:WorksheetOptions>
+      <PageSetup>
+        <Header x:Margin="0.4921259845" />
+        <Footer x:Margin="0.4921259845" />
+        <PageMargins x:Bottom="0.984251969" x:Left="0.78740157499999996" x:Right="0.78740157499999996" x:Top="0.984251969" />
+      </PageSetup>
+      <Selected />
+      <Panes>
+        <Pane>
+          <Number>1</Number>
+          <ActiveRow>1</ActiveRow>
+          <ActiveCol>1</ActiveCol>
+        </Pane>
+      </Panes>
+      <ProtectObjects>False</ProtectObjects>
+      <ProtectScenarios>False</ProtectScenarios>
+    </x:WorksheetOptions>
+  </Worksheet>
+</Workbook>

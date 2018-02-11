@@ -1,0 +1,6 @@
+K:\C# Projekte\Update\Update\bin\Debug\Update.exe.config
+K:\C# Projekte\Update\Update\bin\Debug\Update.exe
+K:\C# Projekte\Update\Update\bin\Debug\Update.pdb
+K:\C# Projekte\Update\Update\obj\Debug\Update.csprojResolveAssemblyReference.cache
+K:\C# Projekte\Update\Update\obj\Debug\Update.exe
+K:\C# Projekte\Update\Update\obj\Debug\Update.pdb

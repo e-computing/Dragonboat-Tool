@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drachenboot Tools", "Drachenboot Tools\Drachenboot Tools.csproj", "{E17ACA00-022D-4116-8C0B-7660DD496714}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs40
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Drachenboot\u0020Tools\\Drachenboot\u0020Tools.csproj
+		SccProjectName1 = Drachenboot\u0020Tools
+		SccLocalPath1 = Drachenboot\u0020Tools
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17ACA00-022D-4116-8C0B-7660DD496714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17ACA00-022D-4116-8C0B-7660DD496714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17ACA00-022D-4116-8C0B-7660DD496714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17ACA00-022D-4116-8C0B-7660DD496714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

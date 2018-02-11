@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clsSerialisierung xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AnzTeams>1</AnzTeams>
+  <Paddler>
+    <sName>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
+      <string>f1</string>
+      <string>f2</string>
+      <string>f3</string>
+      <string>f4</string>
+    </sName>
+    <iGewicht>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>80</int>
+      <int>60</int>
+      <int>60</int>
+      <int>60</int>
+      <int>60</int>
+    </iGewicht>
+    <sSeite>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+      <string>Beides</string>
+    </sSeite>
+    <sGeschlaecht>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Männlich</string>
+      <string>Weiblich</string>
+      <string>Weiblich</string>
+      <string>Weiblich</string>
+      <string>Weiblich</string>
+    </sGeschlaecht>
+    <sSteuermann>
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string />
+      <string>X</string>
+      <string />
+      <string />
+      <string />
+      <string />
+    </sSteuermann>
+  </Paddler>
+  <Speicher>
+    <TeamListe>
+      <clsTeams>
+        <TeamName>test</TeamName>
+        <sPaddler>
+          <string>a</string>
+          <string>b</string>
+          <string>c</string>
+          <string>d</string>
+          <string>e</string>
+          <string>f</string>
+          <string>g</string>
+          <string>h</string>
+          <string>i</string>
+          <string>j</string>
+          <string>k</string>
+          <string>l</string>
+          <string>m</string>
+          <string>n</string>
+          <string>o</string>
+          <string>p</string>
+          <string>q</string>
+          <string>r</string>
+          <string>s</string>
+          <string>t</string>
+          <string>u</string>
+          <string>v</string>
+          <string>w</string>
+          <string>x</string>
+          <string>y</string>
+          <string>z</string>
+          <string>f1</string>
+          <string>f2</string>
+          <string>f3</string>
+          <string>f4</string>
+        </sPaddler>
+        <cAufstellungListe10>
+          <clsAufstellung>
+            <AufstellungName>test</AufstellungName>
+            <sAufstellung>
+              <string>a</string>
+              <string>b</string>
+              <string>d</string>
+              <string>e</string>
+              <string>f</string>
+              <string>g</string>
+              <string>h</string>
+              <string>i</string>
+              <string>j</string>
+              <string>k</string>
+              <string>l</string>
+              <string>c</string>
+              <string>m</string>
+              <string>n</string>
+              <string>o</string>
+              <string>p</string>
+              <string>q</string>
+              <string>r</string>
+              <string>s</string>
+              <string>t</string>
+              <string>u</string>
+              <string>z</string>
+            </sAufstellung>
+          </clsAufstellung>
+        </cAufstellungListe10>
+        <cAufstellungListe5>
+          <clsAufstellung>
+            <AufstellungName>Test</AufstellungName>
+            <sAufstellung>
+              <string>a</string>
+              <string>b</string>
+              <string>c</string>
+              <string>d</string>
+              <string>e</string>
+              <string>f</string>
+              <string>g</string>
+              <string>h</string>
+              <string>i</string>
+              <string>j</string>
+              <string>k</string>
+              <string>z</string>
+            </sAufstellung>
+          </clsAufstellung>
+          <clsAufstellung>
+            <AufstellungName>Frauen</AufstellungName>
+            <sAufstellung>
+              <string>a</string>
+              <string>b</string>
+              <string>c</string>
+              <string>d</string>
+              <string>f1</string>
+              <string>f3</string>
+              <string>g</string>
+              <string>h</string>
+              <string>i</string>
+              <string>f2</string>
+              <string>f4</string>
+              <string>z</string>
+            </sAufstellung>
+          </clsAufstellung>
+        </cAufstellungListe5>
+      </clsTeams>
+    </TeamListe>
+  </Speicher>
+</clsSerialisierung>
